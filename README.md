@@ -39,7 +39,7 @@ I am Maximilian Sonnenburg I am a development-engineer with the focus on Embedde
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | German  | C2 (Native language)
-| English | B2 (Maybe even C1, but actually not qiet sure)                 
+| English | B2 (Maybe even C1, but actually not quiet sure)                 
 | Polish  | A1-A2 (In progress)
 
 
