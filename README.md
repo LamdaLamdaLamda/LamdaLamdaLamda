@@ -7,7 +7,7 @@
 
 ## Abstract
 
-I am Maximilian Sonnenburg I am a development-engineer with the focus on Embedded-Systems. Master degree graduate in Embedded-Systems. Interested in:
+I am Maximilian Sonnenburg, I am a development-engineer with the focus on Embedded-Systems. Master degree graduate in Embedded-Systems. Interested in:
 
 - Operating-System development
 - System-Programming 
@@ -38,8 +38,8 @@ I am Maximilian Sonnenburg I am a development-engineer with the focus on Embedde
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| German  | C2 (Native language)
-| English | B2 (Maybe even C1, but actually not quiet sure)                 
+| German  | C2
+| English | B2               
 | Polish  | A1-A2 (In progress)
 
 
