@@ -7,7 +7,7 @@
 
 ## Abstract
 
-I am Maximilian Sonnenburg, I am a development-engineer with the focus on Embedded-Systems. Master degree graduate in Embedded-Systems. Interested in:
+Interested in:
 
 - Operating-System development
 - System-Programming 
